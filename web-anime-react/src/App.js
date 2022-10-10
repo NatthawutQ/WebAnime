@@ -1,11 +1,11 @@
 import './App.css'
-import AnimeCard from './components/Card/AnimeCards'
+import AnimeList from './components/Card/AnimeList'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <AnimeCard></AnimeCard>
+        <AnimeList></AnimeList>
       </header>
     </div>
   )
